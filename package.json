@@ -1,0 +1,19 @@
+{
+  "name": "cake-ordering-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.658.0",
+    "mailcomposer": "^4.0.2",
+    "nodemailer": "^6.4.6",
+    "serverless-pseudo-parameters": "^2.5.0",
+    "uuid": "^7.0.3"
+  }
+}

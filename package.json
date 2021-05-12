@@ -12,7 +12,7 @@
   "dependencies": {
     "aws-sdk": "^2.658.0",
     "mailcomposer": "^4.0.2",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "serverless-pseudo-parameters": "^2.5.0",
     "uuid": "^7.0.3"
   }

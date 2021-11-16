@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.658.0",
+    "aws-sdk": "^2.814.0",
     "mailcomposer": "^4.0.2",
     "nodemailer": "^6.4.6",
     "serverless-pseudo-parameters": "^2.5.0",
